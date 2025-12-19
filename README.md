@@ -1,41 +1,62 @@
 ## 👋 Hi, I'm Dilli Prasad
 
 🚀 Frontend Developer  
-💻 JavaScript | HTML | CSS | React  
-🌱 Learning by building projects
+💻 JavaScript | TypeScript | HTML | CSS | React | Next.js 
+🌱 Building modern web apps & learning backend
 
 ---
 
-## 🛠️ Tech Stack
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
+
+### UI / Styling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="48" height="48" />
+</p>
+
+### Backend (Learning 🚧)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![Dilli's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilliprasadm&show_icons=true&theme=tokyonight&hide_border=true)
+![Dilli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilliprasadm&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=dilliprasadm&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=dilliprasadm)
 
 ---
 
 ## 🚀 Featured Projects
-- 🔹 **JavaScript Practice**  
-  👉 https://github.com/dilliprasadm/JAVASCRIPT
-
+- 🔹 **Employee Management CRUD App (MEN Stack)**
+  - Built using **Node.js, Express, MongoDB**
+  - MVC architecture
+  - CRUD operations: add, update, delete employees
+  - Fields: name, email, phone, city
+  - Deployed on **Render**
+  👉 Repo: https://github.com/dilliprasadm/express-employees-crud
+  
 - 🔹 **More Projects**  
   👉 https://github.com/dilliprasadm?tab=repositories
 
 ---
 
 ## 🎯 Current Focus
-- Strengthening JavaScript fundamentals
-- Building frontend projects
-- Preparing for frontend roles
+- TypeScript & Next.js apps
+- Tailwind + shadcn/ui components
+- Node.js, Express & MongoDB (learning)
 
 ---
 
@@ -46,6 +67,6 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/dilliprasadm
-- LinkedIn: _add your link here_
+- LinkedIn: https://www.linkedin.com/in/dilliprasadmogarala/
 
 ---
