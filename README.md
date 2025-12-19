@@ -14,7 +14,10 @@
 ### UI / Styling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="48" height="48" />
+</p>
+
+- Tailwind CSS  
+- shadcn/ui
 </p>
 
 ### Backend (Learning 🚧)
